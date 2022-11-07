@@ -29,9 +29,7 @@
 
 ## 💻 Sobre o projeto
 
-10° edição da Next Level Week, onde na trilha Ignite, construimos o backend e front-end (web e mobile) de um bolão da copa do mundo.
-
-[Rocketseat](https://rocketseat.com.br/)
+10° edição da Next Level Week da [Rocketseat](https://rocketseat.com.br/), onde na trilha Ignite, construimos o backend e front-end (web e mobile) de um bolão da copa do mundo.
 
 ---
 
